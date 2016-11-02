@@ -1,0 +1,32 @@
+.jumbotron{
+  text-align: center;
+}
+.jumbo1
+{
+background-color: white;
+color: black;
+}
+.jumbo2{
+  background-color: white;
+}
+.col-md-4{
+  background-color: yellow;
+  border: 1px solid white;
+}
+p{
+  text-align: center;
+}
+.img-circle{
+  height: 400px;
+}
+h1 {
+  text-align: center;
+}
+.header{
+  text-align: center;
+  font-size: 70px;
+  text-decoration:underline;
+}
+.excited{
+  height: 450px;
+}
